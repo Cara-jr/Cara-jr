@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Cara Ren] 
+# Hi there! 👋 I'm Cara Ren
 
 I'm a 3rd-year **Computing and Financial Management** student at the **University of Waterloo** with a passion for technology, finance, and making impactful contributions through software development. I've had the opportunity to work with amazing teams at **Sun Life**, **LTIMindtree**, and **Innocuous AI** as a software developer, gaining hands-on experience in real-world projects.
 
