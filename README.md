@@ -19,3 +19,4 @@ I'm always open to connecting, so feel free to reach out!
 ---
 
 Thanks for visiting, and I look forward to connecting!
+![Alt text](cat2.jpg)
