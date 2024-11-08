@@ -19,4 +19,4 @@ I'm always open to connecting, so feel free to reach out!
 ---
 
 Thanks for visiting, and I look forward to connecting!
-![Alt text](gold.jpg)
+![Alt text](gold.png)
