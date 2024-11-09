@@ -7,7 +7,7 @@ I'm currently **seeking Summer 2025 internship opportunities** in software devel
 ---
 
 ### 🌟 A bit about me:
-- 💻 **Software Development Experience**: Experienced with full-stack and backend development.
+- 💻 **Software Development Experience**: Experienced with AI, full-stack and game development.
 - 📸 **Hobbies**: Outside of coding, I love **photography**, **dancing**, and spending time with my **super cute British Shorthair cat**, who has beautiful gold fur.
   
 ---
